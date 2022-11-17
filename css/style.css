@@ -487,7 +487,7 @@ ul li:nth-child(3):hover {
     background: linear-gradient(155deg, #421804, #000000, #000000, #421804);
     justify-content: center;
     border-top: 3px solid gold;
-    border-image: repeating-linear-gradient( 45deg, pink, pink 1%, purple 1%, purple 8%) 10;
+    border-image: linear-gradient( 45deg, gold, gold 1%, purple 1%, purple 8%) 4;
     box-sizing: border-box;
 }
 
