@@ -681,6 +681,126 @@ ul li:nth-child(3):hover {
     }
 }
 
+@media (min-width:320px) {
+
+    .home #particles-js {
+
+        position: absolute;
+
+        top: -370px;
+
+        left: 00px;
+
+        height: 180%;
+
+        width: 100%;
+
+        opacity: 65%;
+
+    }
+
+}
+
+@media (min-width:481px) {
+
+    .home #particles-js {
+
+        position: absolute;
+
+        top: -370px;
+
+        left: 00px;
+
+        height: 180%;
+
+        width: 100%;
+
+        opacity: 65%;
+
+    }
+
+}
+
+@media (min-width:641px) {
+
+    .home #particles-js {
+
+        position: absolute;
+
+        top: -370px;
+
+        left: 00px;
+
+        height: 140%;
+
+        width: 100%;
+
+        opacity: 65%;
+
+    }
+
+}
+
+@media (min-width:961px) {
+
+    .home #particles-js {
+
+        position: absolute;
+
+        top: -370px;
+
+        left: 00px;
+
+        height: 180%;
+
+        width: 100%;
+
+        opacity: 65%;
+
+    }
+
+}
+
+@media (min-width:1025px) {
+
+    .home #particles-js {
+
+        position: absolute;
+
+        top: -370px;
+
+        left: 00px;
+
+        height: 180%;
+
+        width: 100%;
+
+        opacity: 65%;
+
+    }
+
+}
+
+@media (min-width:1281px) {
+
+    .home #particles-js {
+
+        position: absolute;
+
+        top: -370px;
+
+        left: 00px;
+
+        height: 180%;
+
+        width: 100%;
+
+        opacity: 65%;
+
+    }
+
+}
+
 /*
    *********************************************************************JH@ ⌣ @YUSH**************************************************************************************
 */
