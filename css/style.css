@@ -116,22 +116,24 @@ section {
     margin: auto;
     margin-top: 3.5rem;
     padding: .8rem 3rem;
-    background: rgb(249, 198, 145);
+    background:  linear-gradient(155deg, #421804, #e0cc7b, #e0cc7b, #421804);
     border-radius: 0.6rem;
     position: relative;
-    box-shadow: 0.5rem 0.65rem rgba(248, 171, 104, 0.701);
+    box-shadow: 0.5rem 0.65rem rgba(214, 180, 148, 0.701);
     color: rgb(43, 27, 7);
     font-size: 1.7rem;
     cursor: pointer;
 }
 
 .btn:hover {
-    background: var(--gold);
+    background: linear-gradient(155deg, #421804, #fbd952, #fbd952, #421804);
+    box-shadow: 0.5rem 0.65rem rgba(121, 101, 83, 0.701);
     letter-spacing: .2rem;
 }
 
 .btn a:visited {
-  color: rgb(249, 198, 145);
+  color: linear-gradient(155deg, #421804, #e0cc7b, #e0cc7b, #421804);
+  box-shadow: 0.5rem 0.65rem rgba(214, 180, 148, 0.701);
 }
 
 /*header{
